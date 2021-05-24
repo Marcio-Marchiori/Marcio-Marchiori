@@ -1,3 +1,5 @@
+![](https://github.com/Marcio-Marchiori/Marcio-Marchiori/blob/main/profile_banner.PNG) 
+
 <h1 align="center">Hi 👋, I'm Marcio Marchiori</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
