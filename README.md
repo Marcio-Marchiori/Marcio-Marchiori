@@ -1,7 +1,7 @@
 ![](https://github.com/Marcio-Marchiori/Marcio-Marchiori/blob/main/profile_banner.PNG) 
 
 <h1 align="center">Hi 👋, I'm Marcio Marchiori</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Brazil</h3>
 
 <a href="https://github.com/Marcio-Marchiori/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcio-Marchiori&show_icons=true&theme=tokyonight" />
@@ -10,11 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Marchiori&show_icons=true&theme=tokyonight" />
 </a>
 
-- 🔭 I’m currently working on [HAL 0001](https://docs.google.com/presentation/d/1MNS-WyniINodNyv9Qj6EDpsUS1ogkCMyZAL5Tle-HYQ/edit?usp=sharing)
 
 - 📫 How to reach me **marchiorimarcio@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dlpe5vFNxyiJguMwfzK6D0s3-iW8JTdd/view?usp=sharing](https://drive.google.com/file/d/1Dlpe5vFNxyiJguMwfzK6D0s3-iW8JTdd/view?usp=sharing)
 
 - ⚡ Fun fact **I'm the most confident and outspoken introvert you will meet**
 
